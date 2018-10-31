@@ -1,2 +1,2 @@
 this is my file and new
-and chenged on gihub
+and changed on gihub
